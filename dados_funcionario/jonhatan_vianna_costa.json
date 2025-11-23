@@ -1,0 +1,12 @@
+{
+    "nome": "Jonhatan Vianna Costa",
+    "nascimento": "01/06/1998",
+    "idade": 27,
+    "sexo": "M",
+    "cpf": "157.554.489-445",
+    "cargo": "Gerente De Transporte",
+    "salario": {
+        "salario": 11000,
+        "descricao": "Responsável pela gestão da frota e entregas."
+    }
+}
