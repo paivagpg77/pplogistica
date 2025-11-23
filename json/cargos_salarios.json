@@ -1,0 +1,197 @@
+{
+    "operacao_logistica": {
+        "Ajudante de Carga e Descarga": {
+            "salario": 1800,
+            "descricao": "Auxilia no carregamento e descarregamento de mercadorias."
+        },
+        "Auxiliar de Logística": {
+            "salario": 2000,
+            "descricao": "Executa atividades básicas de estoque, separação e conferência."
+        },
+        "Separador / Picker": {
+            "salario": 2100,
+            "descricao": "Responsável por separar produtos conforme pedidos."
+        },
+        "Conferente": {
+            "salario": 2500,
+            "descricao": "Confere entrada e saída de produtos e notas fiscais."
+        },
+        "Operador de Empilhadeira": {
+            "salario": 3000,
+            "descricao": "Opera empilhadeira para movimentação de materiais."
+        },
+        "Operador de Retratil": {
+            "salario": 3200,
+            "descricao": "Opera empilhadeira retrátil em armazéns verticalizados."
+        },
+        "Operador de Transpaleteira Elétrica": {
+            "salario": 2300,
+            "descricao": "Movimenta paletes com equipamentos elétricos."
+        },
+        "Estoquista": {
+            "salario": 2000,
+            "descricao": "Organiza e controla o estoque físico."
+        },
+        "Embalador": {
+            "salario": 1750,
+            "descricao": "Embala e prepara produtos para expedição."
+        },
+        "Almoxarife": {
+            "salario": 2300,
+            "descricao": "Gerencia estoque interno e materiais da empresa."
+        },
+        "Lider de Logística": {
+            "salario": 3300,
+            "descricao": "Lidera equipes operacionais de logística."
+        },
+        "Lider de Armazem": {
+            "salario": 3400,
+            "descricao": "Coordena o armazém e supervisiona processos."
+        },
+        "Conferente Líder": {
+            "salario": 3000,
+            "descricao": "Supervisiona equipe de conferentes."
+        }
+    },
+
+    "transporte_frota": {
+        "Motorista VUC": {
+            "salario": 2800,
+            "descricao": "Dirige veículos urbanos de carga."
+        },
+        "Motorista Toco": {
+            "salario": 3200,
+            "descricao": "Conduz caminhão toco em rotas curtas e médias."
+        },
+        "Motorista Truck": {
+            "salario": 3800,
+            "descricao": "Conduz caminhão truck em operações de transporte."
+        },
+        "Motorista Carreteiro": {
+            "salario": 5200,
+            "descricao": "Transporta cargas com carretas de grande porte."
+        },
+        "Motorista Bitrem / Rodotrem": {
+            "salario": 6500,
+            "descricao": "Opera composições de grande capacidade em longas distâncias."
+        },
+        "Motorista Munck": {
+            "salario": 4300,
+            "descricao": "Opera caminhão guindaste munck para içamento de cargas."
+        },
+        "Motorista Operador": {
+            "salario": 4000,
+            "descricao": "Motorista especializado que opera máquinas específicas."
+        },
+        "Ajudante de Motorista": {
+            "salario": 1900,
+            "descricao": "Auxilia o motorista nas entregas e organização da carga."
+        },
+        "Encarregado de Transporte": {
+            "salario": 5000,
+            "descricao": "Gerencia equipes e frota de transporte."
+        },
+        "Supervisor de Frota": {
+            "salario": 6200,
+            "descricao": "Supervisiona veículos, motoristas e manutenção."
+        },
+        "Analista de Roteirização": {
+            "salario": 4200,
+            "descricao": "Planeja rotas eficientes de entrega."
+        },
+        "Analista de Monitoramento": {
+            "salario": 2800,
+            "descricao": "Monitora veículos e operações via rastreamento."
+        },
+        "Controlador de Frota": {
+            "salario": 2600,
+            "descricao": "Controla uso, manutenção e documentação da frota."
+        }
+    },
+
+    "administrativo": {
+        "Auxiliar Administrativo": {
+            "salario": 2000,
+            "descricao": "Realiza atividades administrativas básicas."
+        },
+        "Assistente Administrativo": {
+            "salario": 2300,
+            "descricao": "Executa rotinas administrativas e relatórios."
+        },
+        "Assistente de Logística": {
+            "salario": 2600,
+            "descricao": "Apoia nas rotinas de transporte e estoque."
+        },
+        "Analista de Logística Júnior": {
+            "salario": 3300,
+            "descricao": "Analisa e organiza operações logísticas básicas."
+        },
+        "Analista de Logística Pleno": {
+            "salario": 4500,
+            "descricao": "Gerencia indicadores e otimiza processos."
+        },
+        "Analista de Logística Sênior": {
+            "salario": 6000,
+            "descricao": "Responsável por soluções e projetos logísticos."
+        },
+        "Analista de Custos Logísticos": {
+            "salario": 5200,
+            "descricao": "Analisa custos e eficiência operacional."
+        },
+        "Comprador": {
+            "salario": 3500,
+            "descricao": "Realiza cotações e negociações de compras."
+        },
+        "Auxiliar de Compras": {
+            "salario": 2200,
+            "descricao": "Auxilia nos processos de compra."
+        },
+        "Técnico de Segurança do Trabalho": {
+            "salario": 4000,
+            "descricao": "Garante normas de segurança e prevenção."
+        },
+        "Analista de Qualidade": {
+            "salario": 4300,
+            "descricao": "Avalia e mantém padrões de qualidade."
+        },
+        "Coordenador Administrativo": {
+            "salario": 5200,
+            "descricao": "Coordena equipes e processos administrativos."
+        }
+    },
+
+    "gestao": {
+        "Supervisor de Logística": {
+            "salario": 5200,
+            "descricao": "Supervisiona operações e equipes de logística."
+        },
+        "Supervisor de Armazem": {
+            "salario": 5500,
+            "descricao": "Gerencia atividades de armazenagem."
+        },
+        "Coordenador de Logística": {
+            "salario": 7000,
+            "descricao": "Coordena operações e indicadores logísticos."
+        },
+        "Coordenador de Transporte": {
+            "salario": 7200,
+            "descricao": "Gerencia toda operação de transporte."
+        },
+        "Gerente de Logística": {
+            "salario": 10000,
+            "descricao": "Administra áreas completas de logística."
+        },
+        "Gerente de Operações": {
+            "salario": 12000,
+            "descricao": "Gerencia operações e planejamento estratégico."
+        },
+        "Gerente de Transporte": {
+            "salario": 11000,
+            "descricao": "Responsável pela gestão da frota e entregas."
+        },
+        "Diretor de Logística": {
+            "salario": 25000,
+            "descricao": "Lidera toda a estratégia logística da empresa."
+        }
+    }
+}
