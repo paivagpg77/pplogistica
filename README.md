@@ -1,22 +1,18 @@
-## 📦 Projeto Logística
+## 🚚 Projeto Logística (Django)
 
-O **Projeto Logística** é um sistema desenvolvido em **Python + Django** com o objetivo de organizar operações internas, incluindo:
+Sistema web para gerenciamento de operações internas: cargos/salários, funcionários, metas/avaliações e locação de caminhões.
 
-### 🔹 Gestão de Cargos e Salários  
-Cadastro estruturado de cargos, salários e hierarquia.
+### Funcionalidades
+- CRUD de funcionários e cargos
+- Importação automática de JSONs (cargos e funcionários)
+- Registro de metas e avaliações trimestrais
+- Locação de caminhões com verificação de permissões
+- Painel administrativo via Django Admin
 
-### 🔹 Gestão de Funcionários  
-Controle completo de funcionários ativos, dados cadastrais e cargos associados.
-
-### 🔹 Movimentação de Cargas  
-Registro de entradas, saídas, destinos, responsáveis e descrição de cada carga movimentada.
-
-### 🔧 Tecnologias Utilizadas
-- Django 4+
-- Python 3.10+
-- PostgreSQL (opcional)
-- HTML5, CSS3 (templates Django)
-- Django Admin
-
-### 📈 Objetivo do Projeto
-Criar uma aplicação profissional, escalável e totalmente integrada a banco de dados, servindo como base para um sistema completo de logística interna.
+### Rodando localmente
+1. `python -m venv venv && source venv/bin/activate`
+2. `pip install -r requirements.txt`
+3. `python manage.py migrate`
+4. `python manage.py importar_cargos`
+5. `python manage.py importar_funcionarios`
+6. `python manage.py runserver`
